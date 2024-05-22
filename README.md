@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @val4ozexx AKA val4o_fn on discord.
+- 👀 I’m interested in programming and cheat development
+- 📫 How to reach me: add val4o_fn on discord
+- 😄 Pronouns: he/him
+- ⚡ languages: i know python, lua and a little bit of c++ and c#
